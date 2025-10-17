@@ -2,7 +2,7 @@
 
 ## Participant Details
 * **Name:** Joshua Azi
-* **Slack Username:** Joshua Azi
+* **Slack Username:** @Joshuaazi
 
 ## Project Overview
 This project is the initial stage of the HNG13 DevOps track, focusing on deploying a live NGINX web server with custom content.
