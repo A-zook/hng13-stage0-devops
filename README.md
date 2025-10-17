@@ -8,4 +8,4 @@
 This project is the initial stage of the HNG13 DevOps track, focusing on deploying a live NGINX web server with custom content.
 
 ## Deployment Details
-* **Server IP/Domain:** [Leave this blank for now. You will update it *after* deployment.]
+* **Server IP/Domain:** http://18.175.183.216/
